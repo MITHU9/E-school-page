@@ -1,0 +1,117 @@
+header{
+    background-color: rgb(235, 245, 238);
+}
+.container{
+    margin-bottom: 80px;
+}
+.sign-btn{
+    width: 90px;
+    background-color: rgb(19, 173, 109);
+    border-radius: 20px;
+    border: none;
+    padding: 7px;
+    margin-left: 20px;
+}
+.nav-link{
+    margin-left: 20px;
+}
+.red-color{
+    color: rgba(255, 60, 0, 0.671);
+}
+.font-style{
+  font-weight: bold;
+}
+h1,h2{
+    font-weight: 700;
+}
+.color{
+    color: rgb(12, 173, 85);
+}
+.get-btn{
+    width: 120px;
+    background-color: rgb(19, 173, 109);
+    border-radius: 20px;
+    border: none;
+    padding: 7px 10px;
+}
+.div-style{
+    border-radius:20px;
+    width: 270px;
+    height: 280px;
+    margin-left: 10px;
+    background-color: rgb(247, 251, 255);
+    padding: 40px 20px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centertxt{
+    font-family: poppins;
+    text-align: center;
+    margin-top: 30px;
+}
+.div-style:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.align{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-body h5,p{
+    font-family: poppins;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.d-flex{
+    margin-top: 20px;
+}
+.testi{
+    float: left;
+}
+.man{
+    width: 170px;
+    height: 170px;
+    float: left;
+    margin-right: 40px;
+   
+}
+.test{
+ 
+    margin-left: 200px;
+}
+.text{
+    width: 700px;
+    
+    margin-right: 50px;
+}
+.div1 p{
+    color: white;
+}
+h4{
+    color: white;
+}
+ul li{
+    list-style: none;
+    color: white;
+}
+.footer{
+    background-color: rgb(38, 33, 44);
+    padding: 25px;
+}
+.copyright{
+    text-align: center;
+    color: lightgray;
+    font-size: 15px;
+}
