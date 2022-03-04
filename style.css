@@ -2,7 +2,10 @@ header{
     background-color: rgb(235, 245, 238);
 }
 .container{
-    margin-bottom: 80px;
+    margin-bottom: 80px;   
+}
+.padd{
+    padding-bottom: 50px;
 }
 .sign-btn{
     width: 90px;
@@ -33,6 +36,7 @@ h1,h2{
     border-radius: 20px;
     border: none;
     padding: 7px 10px;
+    margin-top: 10px;
 }
 .div-style{
     border-radius:20px;
