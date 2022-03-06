@@ -7,16 +7,19 @@ header{
 .padd{
     padding-bottom: 50px;
 }
+.logo{
+    height: 30px;
+}
 .sign-btn{
-    width: 90px;
+    width: 80px;
     background-color: rgb(19, 173, 109);
     border-radius: 20px;
     border: none;
     padding: 7px;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 .nav-link{
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .red-color{
     color: rgba(255, 60, 0, 0.671);
